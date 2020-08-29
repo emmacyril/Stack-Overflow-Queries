@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Stack-Overflow-Queries/static/css/main.11685565.chunk.css",
+    "main.js": "/Stack-Overflow-Queries/static/js/main.c5ac716f.chunk.js",
+    "main.js.map": "/Stack-Overflow-Queries/static/js/main.c5ac716f.chunk.js.map",
+    "runtime-main.js": "/Stack-Overflow-Queries/static/js/runtime-main.45315d60.js",
+    "runtime-main.js.map": "/Stack-Overflow-Queries/static/js/runtime-main.45315d60.js.map",
+    "static/js/2.31a4362e.chunk.js": "/Stack-Overflow-Queries/static/js/2.31a4362e.chunk.js",
+    "static/js/2.31a4362e.chunk.js.map": "/Stack-Overflow-Queries/static/js/2.31a4362e.chunk.js.map",
+    "index.html": "/Stack-Overflow-Queries/index.html",
+    "precache-manifest.b01c8dc43f5d98558959a951a742f80a.js": "/Stack-Overflow-Queries/precache-manifest.b01c8dc43f5d98558959a951a742f80a.js",
+    "service-worker.js": "/Stack-Overflow-Queries/service-worker.js",
+    "static/css/main.11685565.chunk.css.map": "/Stack-Overflow-Queries/static/css/main.11685565.chunk.css.map",
+    "static/js/2.31a4362e.chunk.js.LICENSE.txt": "/Stack-Overflow-Queries/static/js/2.31a4362e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45315d60.js",
+    "static/js/2.31a4362e.chunk.js",
+    "static/css/main.11685565.chunk.css",
+    "static/js/main.c5ac716f.chunk.js"
+  ]
+}
