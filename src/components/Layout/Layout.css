@@ -1,0 +1,10 @@
+.layout{
+    text-align: left;
+    background-color: #fff ;
+}
+
+.layout h1{
+    padding: 12px;
+    color: #D9B95A;
+    box-shadow: 0 0 0.8142857142857143rem #ccc;
+}
